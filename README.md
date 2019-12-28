@@ -1,5 +1,7 @@
-# HotelLuxWebsite
-Website i made for my web development project in university.
+## HotelLuxWebsite
+**Website i made for my web development project in university.**
+
+__This website use pure php only, no framework has been used.__
 
 
 place this folder inside wamp or xampp server import database file from phpmysql server. 
