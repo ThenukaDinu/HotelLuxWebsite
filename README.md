@@ -11,8 +11,8 @@ place this folder inside wamp or xampp server import database file from phpmysql
 
 ![Create DataBase](https://i.ibb.co/MNZ7zWJ/wad2.png)
 
-![Import DataBase](https://i.ibb.co/MNZ7zWJ/wad4.png)
+![Import DataBase](https://i.ibb.co/dQJMGYf/wad4.png)
 
-![Select DataBase](https://i.ibb.co/MNZ7zWJ/wad5.png)
+![Select DataBase](https://i.ibb.co/DthKys4/wad5.png)
 
-![Done import DataBase](https://i.ibb.co/MNZ7zWJ/wad6.png)
+![Done import DataBase](https://i.ibb.co/5WBWLNh/wad6.png)
